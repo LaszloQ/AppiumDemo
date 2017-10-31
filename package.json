@@ -1,0 +1,25 @@
+{
+  "name": "appiumdemojs",
+  "version": "1.0.0",
+  "description": "Automated native testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaszloQ/AppiumDemo.git"
+  },
+  "keywords": [
+    "appium",
+    "selenium",
+    "js",
+    "native"
+  ],
+  "author": "Laszlo Kiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaszloQ/AppiumDemo/issues"
+  },
+  "homepage": "https://github.com/LaszloQ/AppiumDemo#readme"
+}
